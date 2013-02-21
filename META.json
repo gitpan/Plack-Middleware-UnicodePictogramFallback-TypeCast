@@ -44,7 +44,7 @@
    "provides" : {
       "Plack::Middleware::UnicodePictogramFallback::TypeCast" : {
          "file" : "lib/Plack/Middleware/UnicodePictogramFallback/TypeCast.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "Plack::Middleware::UnicodePictogramFallback::TypeCast::EmoticonMap" : {
          "file" : "lib/Plack/Middleware/UnicodePictogramFallback/TypeCast/EmoticonMap.pm",
@@ -57,5 +57,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }

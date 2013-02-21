@@ -4,7 +4,7 @@ NAME
 
 VERSION
     This document describes
-    Plack::Middleware::UnicodePictogramFallback::TypeCast version 0.01.
+    Plack::Middleware::UnicodePictogramFallback::TypeCast version 0.02.
 
 SYNOPSIS
         use Plack::Middleware::UnicodePictogramFallback::TypeCast;
